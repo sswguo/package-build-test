@@ -1,0 +1,26 @@
+{
+  "name": "package-build-test",
+  "version": "1.0.0",
+  "description": "Test NPM package build against Indy ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sswguo/package-build-test.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "guowj12@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sswguo/package-build-test/issues"
+  },
+  "homepage": "https://github.com/sswguo/package-build-test#readme",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "keycloak-connect": "9.0.1-dev-redhat-00011"
+  }
+}
