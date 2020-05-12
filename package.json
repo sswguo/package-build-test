@@ -21,6 +21,7 @@
   "homepage": "https://github.com/sswguo/package-build-test#readme",
   "dependencies": {
     "jquery": "^3.5.1",
-    "keycloak-connect": "9.0.1-dev-redhat-00011"
+    "keycloak-connect": "9.0.1-dev-redhat-00003",
+    "tmp": "^0.2.1"
   }
 }
