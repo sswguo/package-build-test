@@ -1,6 +1,6 @@
 {
   "name": "package-build-test",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Test NPM package build against Indy ",
   "main": "index.js",
   "scripts": {
